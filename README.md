@@ -26,6 +26,9 @@ v.1.0
 ### Autor:
 Rafael Marchesin
 
+### Licença:
+MIT License
+
 ***
 
 ## Documentação:
