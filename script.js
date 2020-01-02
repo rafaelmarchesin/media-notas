@@ -59,7 +59,7 @@ function adicionar(){
 
             
         } else {
-            alert('O nota digitada é inválida, por favor, insira uma nota válida.')
+            alert('A nota digitada é inválida, por favor, insira uma nota válida.')
             valorNota.value = ""
             valorNota.focus()
 
