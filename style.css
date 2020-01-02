@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(64, 34, 119);
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    color: black;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.445);
+    padding: 10px;
+    margin: auto;
+    font-size: 16px;
+}
+
+#notasInseridas{
+    width: 100%;
+}
+
+#informacao{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#logoInformacao{
+    background-color: rgb(126, 214, 255);
+    border-style: solid; /* É obrigatório colocar o estilo da borda */
+    border-width: 3px;
+    border-color: black;
+    margin: auto;
+    width: 35px;
+    height: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#logoInformacao:hover{
+    background-color: rgb(0, 174, 255);
+}
+
+#spanInformacao{
+    cursor: pointer;
+    margin: auto;
+    padding: 0px;
+    font-size: 30px;
+}
+
+#pInformacao{
+    height: 0px;
+    margin: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font: normal 16px Arial;
+}
